@@ -1,4 +1,10 @@
 #!/bin/bash
+# system-health.sh - Monitors CPU, memory and disk usage
+# Usage: bash system-health.sh
+# Author: edase
+# Date: 2026-04-04
+
+#!/bin/bash
 set -euo pipefail
 
 DISK_WARN=80
