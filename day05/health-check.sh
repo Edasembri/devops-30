@@ -7,3 +7,4 @@ uptime
 df -h /
 free -h
 echo "echo 'Done!'" >> health-check.sh
+echo 'work in progress'
